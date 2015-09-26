@@ -9,12 +9,12 @@ Create a proxy in free webhosting with curl and php.
 **Client** - PHP 5 or > ,PHP-cli and PHP-curl.
 
 
-## what it can do for you?
+## What can do for you?
 
 If you need proxys of others countries or more fast that public proxies **jProxySon** is your solution. It make tunnel with curl request with Client ( in your script ) to Server ( in web hosting server ) and return you the code of page of your choise.
 
 
-## what it cant do for you?
+## What cannot do for you?
 
 Cant do proxy for navigators or other programs, jProxySon isn't proxy HTTP or SOCKS4/5. Only work for your own scripts/webs.
 
